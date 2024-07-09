@@ -1,14 +1,6 @@
-# Computer-Science-Mini-Projects
+# Parallel-Computer-Architecture-and-Programming-Models
 
-Welcome to the Computer Science Mini Projects repository! This repository serves as a central hub for various mini-projects related to different domains in computer science. Each project is housed in its own GitHub repository, and you can find the links to these projects below.
-
-## Table of Contents
-
-1. [Parallel and Computer Architecture](#parallel-and-computer-architecture)
-2. [MLOps](#mlops)
-3. [Additional Projects](#additional-projects)
-4. [Contributing](#contributing)
-5. [License](#license)
+Welcome to the Parallel-Computer-Architecture-and-Programming-Models repository! This repository serves as a central hub for various mini-projects related to different Parallel Computer Architecture and Programming Models techniques. Each project is housed in its own GitHub repository, and you can find the links to these projects below.
 
 ## Parallel and Computer Architecture
 
